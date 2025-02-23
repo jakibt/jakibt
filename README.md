@@ -24,7 +24,8 @@ Gradle            10 mins         ░░░░░░░░░░░░░░░�
 🚀 I am currently learning **Flutter** to build cross-platform mobile applications.  
 
 🔍 I am always eager to learn new technologies and improve my skills.  
-📩 Feel free to reach out: **jakub.beres135@gmail.com**
-                            **www.linkedin.com/in/jakub-béreš-37a431331**
+
+📩 Email:        **jakub.beres135@gmail.com**  
+🧑‍💻 Linkedin:     **www.linkedin.com/in/jakub-béreš-37a431331**
 
 
