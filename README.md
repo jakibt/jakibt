@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 28 hrs 11 mins
+Total Time: 22 hrs 35 mins
 
-Dart              17 hrs 38 mins  ███████████████▒░░░░░░░░░   61.62 %
-RobotFramework    8 hrs 6 mins    ███████░░░░░░░░░░░░░░░░░░   28.31 %
-Other             26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-Text              24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-GitIgnore file    22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+Dart              12 hrs 38 mins  █████████████▓░░░░░░░░░░░   54.82 %
+RobotFramework    8 hrs 6 mins    ████████▓░░░░░░░░░░░░░░░░   35.18 %
+Other             26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Text              22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
+GitIgnore file    21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
 ```
 
 <!--END_SECTION:waka-->
