@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 33 hrs 45 mins
+Total Time: 28 hrs 27 mins
 
-RobotFramework   12 hrs 43 mins  █████████▒░░░░░░░░░░░░░░░   36.71 %
-TypeScript       11 hrs 59 mins  ████████▓░░░░░░░░░░░░░░░░   34.60 %
-Dart             6 hrs 53 mins   █████░░░░░░░░░░░░░░░░░░░░   19.89 %
-Other            53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-JSON             36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+RobotFramework   12 hrs 43 mins  ███████████░░░░░░░░░░░░░░   43.34 %
+Dart             8 hrs 14 mins   ███████░░░░░░░░░░░░░░░░░░   28.10 %
+TypeScript       5 hrs 51 mins   █████░░░░░░░░░░░░░░░░░░░░   19.96 %
+Other            53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+JSON             22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
 ```
 
 <!--END_SECTION:waka-->
