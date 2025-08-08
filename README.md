@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 39 hrs 59 mins
+Total Time: 41 hrs 6 mins
 
-Dart             27 hrs 37 mins  █████████████████▒░░░░░░░   69.09 %
-RobotFramework   11 hrs 20 mins  ███████░░░░░░░░░░░░░░░░░░   28.34 %
-YAML             52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-PowerShell       4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Dart             27 hrs 40 mins  █████████████████░░░░░░░░   67.34 %
+RobotFramework   13 hrs 3 mins   ████████░░░░░░░░░░░░░░░░░   31.77 %
+YAML             18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 Text             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
