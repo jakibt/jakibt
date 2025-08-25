@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 21 hrs 47 mins
+Total Time: 19 hrs 19 mins
 
-Dart             11 hrs 28 mins  █████████████░░░░░░░░░░░░   52.64 %
-RobotFramework   8 hrs 48 mins   ██████████░░░░░░░░░░░░░░░   40.41 %
-XML              1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.26 %
-Bash             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-Image (svg)      4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Dart             10 hrs 9 mins   █████████████░░░░░░░░░░░░   52.54 %
+RobotFramework   8 hrs 48 mins   ███████████▒░░░░░░░░░░░░░   45.56 %
+Bash             13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+Image (svg)      4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+.env file        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
 ```
 
 <!--END_SECTION:waka-->
