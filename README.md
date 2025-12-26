@@ -10,11 +10,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 13 mins
+Total Time: 0 secs
 
-Python   11 mins         █████████████████████▓░░░   86.30 %
-Text     1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
