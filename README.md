@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 12 hrs 51 mins
+Total Time: 17 hrs 13 mins
 
-RobotFramework   9 hrs 21 mins         ██████████████████░░░░░░░   72.53 %
-C#               3 hrs 16 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.31 %
-Python           6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
-Other            3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-JSON             3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+RobotFramework   9 hrs 16 mins         █████████████▒░░░░░░░░░░░   53.73 %
+C#               6 hrs                 ████████▓░░░░░░░░░░░░░░░░   34.74 %
+YAML             1 hr 16 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+Python           33 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+Other            3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
