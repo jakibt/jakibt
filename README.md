@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 15 hrs 17 mins
+Total Time: 11 hrs 14 mins
 
-RobotFramework   10 hrs 17 mins        ████████████████▓░░░░░░░░   67.29 %
-YAML             3 hrs 13 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.10 %
-Python           43 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-HTML             23 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-TOML             17 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+RobotFramework   6 hrs 38 mins         ██████████████▓░░░░░░░░░░   59.11 %
+YAML             3 hrs 14 mins         ███████▒░░░░░░░░░░░░░░░░░   28.88 %
+Python           43 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
+TOML             17 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+PowerShell       11 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 ```
 
 <!--END_SECTION:waka-->
