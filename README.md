@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 24 mins
+Total Time: 7 hrs 34 mins
 
-RobotFramework   5 hrs 20 mins         ████████████████████████░   96.35 %
-Other            8 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
-Markdown         2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-HTML             1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Python           0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+RobotFramework   7 hrs 4 mins          ████████████████████▓░░░░   82.04 %
+Other            1 hr 2 mins           ███░░░░░░░░░░░░░░░░░░░░░░   12.11 %
+Markdown         20 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+PowerShell       5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+YAML             2 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
 ```
 
 <!--END_SECTION:waka-->
